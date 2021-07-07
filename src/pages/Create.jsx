@@ -100,7 +100,6 @@ export default function Create() {
           </Button>
         </form>
       </Container>
-      {/* icons */}
     </div>
   )
 }
